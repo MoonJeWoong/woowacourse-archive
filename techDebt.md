@@ -104,3 +104,11 @@
             - runtime constant pool은 정확하게 클래스 / 인터페이스의 constant pool이 가지지 않고 있는 일부 상수들도 포함하고 있다.
         - DUP 명령어는 operand stack에 최상단에 위치한 value를 복사해 다시 operand stack에 push 한다.
         - new 명령어는 새로운 객체를 생성하고 객체에 대한 레퍼런스를 operand stack에 push 한다.
+
+- LinkedList 구현 코드 내부 clear Method 달린 주석 중
+  - // Clearing all of the links between nodes is "unnecessary", but:
+    // - helps a generational GC if the discarded nodes inhabit
+    //   more than one generation
+    // - is sure to free memory even if there is a reachable Iterator
+  - Iterator가 접근 가능한 경우가 뭘까...?
+  - 그 경우에는 왜 삭제해도 되는 거지?
