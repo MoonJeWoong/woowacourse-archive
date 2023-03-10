@@ -112,3 +112,15 @@
     // - is sure to free memory even if there is a reachable Iterator
   - Iterator가 접근 가능한 경우가 뭘까...?
   - 그 경우에는 왜 삭제해도 되는 거지?
+
+
+## 블랙잭 미션 구현 중 Enum 내부 메서드 구현은 어떤식으로 하는게 좋은지 의문이 듦
+- [레퍼런스](https://velog.io/@nawhew/%EC%9E%90%EB%B0%94-Enum%EC%9D%84-%EB%8D%94-%EC%9E%98%EC%93%B0%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EB%B2%95)
+- 객체 캐싱의 개념도 한 번 공부해보자.
+- assertj vs junit : assertj gradle dependencies 설정 안되어 있을 수도 있으니 추가해주기.
+- 이번 미션에서 왜 객체의 인스턴스 변수 개수를 2개로 제한했을까?
+  - [레퍼런스](https://limdingdong.tistory.com/13)
+- 그냥 new ArrayList<>() 해주는 거랑 Collections.emptyList()를 사용하는 것이랑 무슨 차이가 있나?
+- 한 객체에서 여러 개의 생성자를 여는 것이 괜찮을까? 이번 블랙잭 학습 자료에 나와있으니 알아보자...
+- Hand 객체 내부에서 score 합산 메서드 구현시 사용한 stream reduce 에서 함수형 인터페이스 사용하는데 나중에 정리해보기
+- 
