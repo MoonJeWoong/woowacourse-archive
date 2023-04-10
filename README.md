@@ -1,6 +1,8 @@
 # woowacourse-archive
 우아한 테크코스 5기를 지내며 배운 것을 기록합니다.
 
+<br>
+
 ### ☕ Level 1
 
 |  Project  |                                Repository                                |                          Pull Request & Review 1                           |                          Pull Request & Review 2                           |                      Retrospection                       |
@@ -10,6 +12,7 @@
 |  사다리 타기   |   [repository](https://github.com/MoonJeWoong/java-ladder/tree/step2)    |   [Pull Request 1](https://github.com/woowacourse/java-ladder/pull/131)    |   [Pull Request 2](https://github.com/woowacourse/java-ladder/pull/210)    |  [retrospection](https://makemepositive.tistory.com/22)  |
 |  자동차 경주   |  [repository](https://github.com/MoonJeWoong/java-racingcar/tree/step2)  |  [Pull Request 1](https://github.com/woowacourse/java-racingcar/pull/499)  |  [Pull Request 2](https://github.com/woowacourse/java-racingcar/pull/595)  |  [retrospection](https://makemepositive.tistory.com/21)  |
 
+<br>
 
 ### 🚀 Precourse
 
@@ -21,5 +24,6 @@
 |  숫자 야구 게임   |   [repository](https://github.com/MoonJeWoong/java-baseball/tree/MoonJeWoong)   |  [retrospection](https://makemepositive.tistory.com/13)  |
 |     온보딩     |  [repository](https://github.com/MoonJeWoong/java-onboarding/tree/MoonJeWoong)  |  [retrospection](https://makemepositive.tistory.com/11)  |
 
+<br>
 
 🎉 [우아한테크코스 5기 백엔드 지원, 합격 과정 회고](https://makemepositive.tistory.com/20)
