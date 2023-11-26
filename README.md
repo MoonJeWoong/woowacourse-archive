@@ -16,7 +16,7 @@
 
 ### 📖 Level 3
 
-효율적인 학습, 스터디 진행을 도와주는 서비스. 하루스터디 프로젝트 진행
+효율적인 학습, 스터디 진행을 도와주는 서비스. 하루스터디 프로젝트 진행 <br>
 [하루스터디 서비스 바로가기](https://haru-study.com/)
 
 | Sprint  |         Period          |                     Retrospection                      |
